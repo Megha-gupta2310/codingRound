@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="softwaretesting">
+ <test name="testngTest">
+ <classes>
+ <!-- <class name="hotelBooking.HotelBookingTest.java" /> -->
+ <class name="flighBooking.FlightBooking.java" />
+ <class name="signIn.signInTest.java" />
+ </classes>
+ </test>
+</suite>
